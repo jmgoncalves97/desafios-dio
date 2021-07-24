@@ -3,4 +3,4 @@
 Java challenges made at Digital Innovation One. Resources used:
 * Java IO
 * Collections framework
-* Stream API
+* Streams API
